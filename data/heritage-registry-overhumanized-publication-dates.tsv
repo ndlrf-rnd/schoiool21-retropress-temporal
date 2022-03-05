@@ -1,501 +1,501 @@
-fingerprint	dataset	text_value	timex
+fingerprint	dataset	text_value
 N w NN w NNNN	dev	8 - 12 июня 1591
-N w NN w NNNN	val	8 - 25 июня 1604	<TIMEX3 type='DATE' value='1604-6-8'>8</TIMEX3> - <TIMEX3 type='DATE' value='1604-6-25'>25 июня 1604</TIMEX3><TIMEX3 type='DURATION' value='P2W3D' />
+N w NN w NNNN	val	8 - 25 июня 1604
 N w NNNN	dev	1 августа 1744
-N w NNNN	val	9 сентября 1742	<TIMEX3 type='DATE' value='1742-9-9'>9 сентября 1742</TIMEX3>
+N w NNNN	val	9 сентября 1742
 N w NNNN NN.NN. w NN.NN.NNNN	dev	4 июня 1635 15.10. - 04.06.7143
-N w NNNN NN.NN. w NN.NN.NNNN	val	8 мая 1648 01.03. - 08.05.7156	<TIMEX3 type='DATE' value='1648-5-8'>8 мая 1648</TIMEX3> 01.03. - <TIMEX3 type='DATE' value='1648-5-8'>08.05.7156</TIMEX3>
+N w NNNN NN.NN. w NN.NN.NNNN	val	8 мая 1648 01.03. - 08.05.7156
 N w NNNN NN.NN.NNNN w NN.NN.NNNN	dev	1 ноября 1628 07.12.7136 - 01.11.7137
-N w NNNN NN.NN.NNNN w NN.NN.NNNN	val	9 сентября 1626 01.05.7133 - 09.09.7135	<TIMEX3 type='DATE' value='1626-9-9'>9 сентября 1626</TIMEX3> 01.05.7133 - <TIMEX3 type='DATE' value='1626-9-9'>09.09.7135</TIMEX3>
+N w NNNN NN.NN.NNNN w NN.NN.NNNN	val	9 сентября 1626 01.05.7133 - 09.09.7135
 N w NNNN-NN w NNNN	dev	8 июля 1568-17 марта 1569
-N w NNNN-NN w NNNN	val	8 июля 1581-30 марта 1582	<TIMEX3 type='DATE' value='1581-6-8'>8 июля 1581</TIMEX3>-<TIMEX3 type='DATE' value='1582-5-30'>30 марта 1582</TIMEX3><TIMEX3 type='DURATION' value='P8M3W1D' />
+N w NNNN-NN w NNNN	val	8 июля 1581-30 марта 1582
 N w. NNNN	dev	1 сент. 1779
-N w. NNNN	val	1 янв. 1818	<TIMEX3 type='DATE' value='1818-1-1'>1 янв. 1818</TIMEX3>
+N w. NNNN	val	1 янв. 1818
 N w. NNNN	dev	1 апр. 1717
-N w. NNNN	val	1 апр. 1730	<TIMEX3 type='DATE' value='1730-4-1'>1 апр. 1730</TIMEX3>
+N w. NNNN	val	1 апр. 1730
 N.w. NNNN	dev	1.II. 1480
-N.w. NNNN	val	1.II. 1493	<TIMEX3 type='DATE' value='1493-2-1'>1.II. 1493</TIMEX3>
+N.w. NNNN	val	1.II. 1493
 N.w.NNNN	dev	1.II.1526
-N.w.NNNN	val	9.V.1489	<TIMEX3 type='DATE' value='1489-5-9'>9.V.1489</TIMEX3>
+N.w.NNNN	val	9.V.1489
 NN (!) w NNNN (NNNN)	dev	31 (!) июня 1656 (7164)
-NN (!) w NNNN (NNNN)	val	44 (!) июня 1669 (7177)	<TIMEX3 type='DATE' value='1669-6'>44 (!) июня 1669 (7177)</TIMEX3>
+NN (!) w NNNN (NNNN)	val	44 (!) июня 1669 (7177)
 NN w NNNN	dev	10 апреля 1699
-NN w NNNN	val	31 августа 1744	<TIMEX3 type='DATE' value='1744-8-31'>31 августа 1744</TIMEX3>
+NN w NNNN	val	31 августа 1744
 NN w NNNN N.NN.NNNN w NN.NN.NNNN	dev	18 марта 1606 5.07.7113 - 18.03.7114
-NN w NNNN N.NN.NNNN w NN.NN.NNNN	val	31 марта 1619 5.20.7126 - 31.16.7127	<TIMEX3 type='DATE' value='1619-3-31'>31 марта 1619</TIMEX3> 5.20.7126 - 31.16.7127
+NN w NNNN N.NN.NNNN w NN.NN.NNNN	val	31 марта 1619 5.20.7126 - 31.16.7127
 NN w NNNN NN.NN. w NN.NN.NNNN	dev	12 декабря 1650 06.10. - 12.12.7159
-NN w NNNN NN.NN. w NN.NN.NNNN	val	13 августа 1631 08.06. - 13.08.7139	<TIMEX3 type='DATE' value='1631-8-13'>13 августа 1631</TIMEX3> 08.06. - 13.08.7139
+NN w NNNN NN.NN. w NN.NN.NNNN	val	13 августа 1631 08.06. - 13.08.7139
 NN w NNNN NN.NN.NNNN	dev	20 января 1649 20.01.7157
-NN w NNNN NN.NN.NNNN	val	33 января 1662 33.14.7170	<TIMEX3 type='DATE' value='1662-1-33'>33 января 1662</TIMEX3> 33.14.7170
+NN w NNNN NN.NN.NNNN	val	33 января 1662 33.14.7170
 NN w NNNN NN.NN.NNNN w NN.NN.NNNN	dev	12 августа 1619 20.07.7126 - 12.08.7127
-NN w NNNN NN.NN.NNNN w NN.NN.NNNN	val	31 января 1594 08.06.7100 - 31.01.7102	<TIMEX3 type='DATE' value='1594-1-31'>31 января 1594</TIMEX3> 08.06.7100 - 31.01.7102
+NN w NNNN NN.NN.NNNN w NN.NN.NNNN	val	31 января 1594 08.06.7100 - 31.01.7102
 NN w NNNN NN.NN.NNNN w NNNNU.NNNN	dev	28 февраля 1607 15.09.7113 - 2802I.7115
-NN w NNNN NN.NN.NNNN w NNNNU.NNNN	val	41 февраля 1620 28.22.7126 - 2815I.7128	<TIMEX3 type='DATE' value='41 февраля 1620 28.22.7126 - 2815I.7128'>41 февраля 1620 28.22.7126 - 2815I.7128</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN NN.NN.NNNN w NNNNU.NNNN	val	41 февраля 1620 28.22.7126 - 2815I.7128
 NN w NNNN NNNN	dev	12 августа 1581 7089
-NN w NNNN NNNN	val	25 августа 1594 7102	<TIMEX3 type='DATE' value='25 августа 1594 7102'>25 августа 1594 7102</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN NNNN	val	25 августа 1594 7102
 NN w NNNN w	dev	25 ноября 1750 года
-NN w NNNN w	val	38 ноября 1763 года	<TIMEX3 type='DATE' value='38 ноября 1763 года'>38 ноября 1763 года</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN w	val	38 ноября 1763 года
 NN w NNNN w N w NNNN NNNN	dev	28 октября 1658 - 3 августа 1659 7167
-NN w NNNN w N w NNNN NNNN	val	41 октября 1671 - 3 августа 1672 7180	<TIMEX3 type='DATE' value='41 октября 1671 - 3 августа 1672 7180'>41 октября 1671 - 3 августа 1672 7180</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN w N w NNNN NNNN	val	41 октября 1671 - 3 августа 1672 7180
 NN w NNNN w NN w	dev	30 апреля 1730 в 30 день
-NN w NNNN w NN w	val	43 апреля 1743 в 43 день	<TIMEX3 type='DATE' value='43 апреля 1743 в 43 день'>43 апреля 1743 в 43 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN w NN w	val	43 апреля 1743 в 43 день
 NN w NNNN w.	dev	15 октября 1721 г.
-NN w NNNN w.	val	26 января 1723 г.	<TIMEX3 type='DATE' value='26 января 1723 г.'>26 января 1723 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN w.	val	26 января 1723 г.
 NN w NNNN, NN.NN. w NN.NN.NNNN	dev	29 июня 1647, 01.03. - 29.06.7155
-NN w NNNN, NN.NN. w NN.NN.NNNN	val	42 июня 1660, 14.16. - 42.19.7168	<TIMEX3 type='DATE' value='42 июня 1660, 14.16. - 42.19.7168'>42 июня 1660, 14.16. - 42.19.7168</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN, NN.NN. w NN.NN.NNNN	val	42 июня 1660, 14.16. - 42.19.7168
 NN w NNNN.	dev	13 ноября 1722.
-NN w NNNN.	val	26 ноября 1735.	<TIMEX3 type='DATE' value='26 ноября 1735.'>26 ноября 1735.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w NNNN.	val	26 ноября 1735.
 NN w. NNNN	dev	11 сент. 1742
-NN w. NNNN	val	31 авг. 1814	<TIMEX3 type='DATE' value='31 авг. 1814'>31 авг. 1814</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w. NNNN	val	31 авг. 1814
 NN w. NNNN NN.NN.NNNN w NN.NN.NNNN.	dev	31 янв. 1594 08.06.7100 - 31.01.7102.
-NN w. NNNN NN.NN.NNNN w NN.NN.NNNN.	val	44 янв. 1607 21.19.7113 - 44.14.7115.	<TIMEX3 type='DATE' value='44 янв. 1607 21.19.7113 - 44.14.7115.'>44 янв. 1607 21.19.7113 - 44.14.7115.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w. NNNN NN.NN.NNNN w NN.NN.NNNN.	val	44 янв. 1607 21.19.7113 - 44.14.7115.
 NN w. NNNN.	dev	12 апр. 1718.
-NN w. NNNN.	val	25 апр. 1731.	<TIMEX3 type='DATE' value='25 апр. 1731.'>25 апр. 1731.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w. NNNN.	val	25 апр. 1731.
 NN w. w N w NNNN NN.NN.NNNN w NN.NN.NNNN	dev	20 дек. - 8 ноября 1589 20.12.7096 - 08.11.7098
-NN w. w N w NNNN NN.NN.NNNN w NN.NN.NNNN	val	33 дек. - 8 ноября 1602 33.25.7109 - 21.24.7111	<TIMEX3 type='DATE' value='33 дек. - 8 ноября 1602 33.25.7109 - 21.24.7111'>33 дек. - 8 ноября 1602 33.25.7109 - 21.24.7111</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w. w N w NNNN NN.NN.NNNN w NN.NN.NNNN	val	33 дек. - 8 ноября 1602 33.25.7109 - 21.24.7111
 NN w. w NN w. NNNN N.NN.NNNN w NN.NN.NNNN.	dev	26 авг. - 24 нояб. 1591 6.08.7098 - 24.11.7100.
-NN w. w NN w. NNNN N.NN.NNNN w NN.NN.NNNN.	val	39 авг. - 37 нояб. 1604 6.21.7111 - 37.24.7113.	<TIMEX3 type='DATE' value='39 авг. - 37 нояб. 1604 6.21.7111 - 37.24.7113.'>39 авг. - 37 нояб. 1604 6.21.7111 - 37.24.7113.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN w. w NN w. NNNN N.NN.NNNN w NN.NN.NNNN.	val	39 авг. - 37 нояб. 1604 6.21.7111 - 37.24.7113.
 NN-?	dev	19-?
-NN-?	val	32-?	<TIMEX3 type='DATE' value='32-?'>32-?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-?	val	32-?
 NN-NN w NNNN	dev	11-12 августа 1627
-NN-NN w NNNN	val	24-25 августа 1640	<TIMEX3 type='DATE' value='24-25 августа 1640'>24-25 августа 1640</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-NN w NNNN	val	24-25 августа 1640
 NN-NN w NNNN NNNN	dev	11-12 августа 1627 7135
-NN-NN w NNNN NNNN	val	24-25 августа 1640 7148	<TIMEX3 type='DATE' value='24-25 августа 1640 7148'>24-25 августа 1640 7148</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-NN w NNNN NNNN	val	24-25 августа 1640 7148
 NN-NN-WW. WW.	dev	70-80-е гг. XVII в.
-NN-NN-WW. WW.	val	83-93-е гг. XVIII в.	<TIMEX3 type='DATE' value='83-93-е гг. XVIII в.'>83-93-е гг. XVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-NN-WW. WW.	val	83-93-е гг. XVIII в.
 NN-NN-WW. WW. WW. w. WW. (w. N w N)	dev	60-70-е гг. XVI в. и перв. пол. XVII в. (л. 1 – 2)
-NN-NN-WW. WW. WW. w. WW. (w. N w N)	val	73-83-е гг. XVII в. и перв. пол. XVIII в. (л. 1 – 2)	<TIMEX3 type='DATE' value='73-83-е гг. XVII в. и перв. пол. XVIII в. (л. 1 – 2)'>73-83-е гг. XVII в. и перв. пол. XVIII в. (л. 1 – 2)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-NN-WW. WW. WW. w. WW. (w. N w N)	val	73-83-е гг. XVII в. и перв. пол. XVIII в. (л. 1 – 2)
 NN-w?	dev	18--?
-NN-w?	val	19--?	<TIMEX3 type='DATE' value='19--?'>19--?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-w?	val	19--?
 NN-WW.	dev	60-е годы XIV в.
-NN-WW.	val	73-е годы XIV в.	<TIMEX3 type='DATE' value='73-е годы XIV в.'>73-е годы XIV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-WW.	val	73-е годы XIV в.
 NN-WW. WW	dev	70-е гг. XVIII в
-NN-WW. WW	val	83-е гг. XIX в	<TIMEX3 type='DATE' value='83-е гг. XIX в'>83-е гг. XIX в</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-WW. WW	val	83-е гг. XIX в
 NN-WW. WW.	dev	40-е гг. XVII в.
-NN-WW. WW.	val	90-е гг. XVII в.	<TIMEX3 type='DATE' value='90-е гг. XVII в.'>90-е гг. XVII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-WW. WW.	val	90-е гг. XVII в.
 NN-WW. WW., WW. (w. NNN–NNN)	dev	70-е гг. XV в., с дополнением XVII в. (л. 269–272)
-NN-WW. WW., WW. (w. NNN–NNN)	val	83-е гг. XV в., с дополнением XVIII в. (л. 282–285)	<TIMEX3 type='DATE' value='83-е гг. XV в., с дополнением XVIII в. (л. 282–285)'>83-е гг. XV в., с дополнением XVIII в. (л. 282–285)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN-WW. WW., WW. (w. NNN–NNN)	val	83-е гг. XV в., с дополнением XVIII в. (л. 282–285)
 NN..	dev	17..
-NN..	val	30..	<TIMEX3 type='DATE' value='30..'>30..</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN..	val	30..
 NN...	dev	19...
-NN...	val	32...	<TIMEX3 type='DATE' value='32...'>32...</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN...	val	32...
 NN..?	dev	18..?
-NN..?	val	31..?	<TIMEX3 type='DATE' value='31..?'>31..?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN..?	val	31..?
 NN.?	dev	18.?
-NN.?	val	31.?	<TIMEX3 type='DATE' value='31.?'>31.?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.?	val	31.?
 NN.NN. NNNN w NN.NN. NNNN	dev	25.02. 1573 - 15.02. 1574
-NN.NN. NNNN w NN.NN. NNNN	val	38.15. 1586 - 28.15. 1587	<TIMEX3 type='DATE' value='38.15. 1586 - 28.15. 1587'>38.15. 1586 - 28.15. 1587</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN. NNNN w NN.NN. NNNN	val	38.15. 1586 - 28.15. 1587
 NN.NN.NNNN	dev	01.12.1709
-NN.NN.NNNN	val	31.01.1594	<TIMEX3 type='DATE' value='31.01.1594'>31.01.1594</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN.NNNN	val	31.01.1594
 NN.NN.NNNN (NN.NN.NNNN– NN.NN.NNNN)	dev	08.06.1630 (04.03.7137– 08.06.7138)
-NN.NN.NNNN (NN.NN.NNNN– NN.NN.NNNN)	val	21.19.1643 (17.16.7150– 21.19.7151)	<TIMEX3 type='DATE' value='21.19.1643 (17.16.7150– 21.19.7151)'>21.19.1643 (17.16.7150– 21.19.7151)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN.NNNN (NN.NN.NNNN– NN.NN.NNNN)	val	21.19.1643 (17.16.7150– 21.19.7151)
 NN.NN.NNNN (NN.NN.NNNN–NN.NN.NNNN)	dev	06.12.1644 (23.06.7152–06.12.7153)
-NN.NN.NNNN (NN.NN.NNNN–NN.NN.NNNN)	val	29.06.1650 (21.12.7158–29.06.7158)	<TIMEX3 type='DATE' value='29.06.1650 (21.12.7158–29.06.7158)'>29.06.1650 (21.12.7158–29.06.7158)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN.NNNN (NN.NN.NNNN–NN.NN.NNNN)	val	29.06.1650 (21.12.7158–29.06.7158)
 NN.NN.NNNN (NN.NN.–NN.NN.NNNN)	dev	12.06.1652 (07.02.–12.06.7160)
-NN.NN.NNNN (NN.NN.–NN.NN.NNNN)	val	25.19.1665 (20.15.–25.19.7173)	<TIMEX3 type='DATE' value='25.19.1665 (20.15.–25.19.7173)'>25.19.1665 (20.15.–25.19.7173)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN.NNNN (NN.NN.–NN.NN.NNNN)	val	25.19.1665 (20.15.–25.19.7173)
 NN.NN.NNNN (NNNN)	dev	13.11.1727 (7235)
-NN.NN.NNNN (NNNN)	val	24.08.1624 (7132)	<TIMEX3 type='DATE' value='24.08.1624 (7132)'>24.08.1624 (7132)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NN.NNNN (NNNN)	val	24.08.1624 (7132)
 NN.NNNN	dev	12.1697
-NN.NNNN	val	25.1710	<TIMEX3 type='DATE' value='25.1710'>25.1710</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NNNN	val	25.1710
 NN.NNNN (NNNN)	dev	02.1696 (7204)
-NN.NNNN (NNNN)	val	09.1682 (7191)	<TIMEX3 type='DATE' value='09.1682 (7191)'>09.1682 (7191)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.NNNN (NNNN)	val	09.1682 (7191)
 NN.w. NNNN w. w. NNNN	dev	29.XII. 1476 i. e. 1475
-NN.w. NNNN w. w. NNNN	val	42.XII. 1489 i. e. 1488	<TIMEX3 type='DATE' value='42.XII. 1489 i. e. 1488'>42.XII. 1489 i. e. 1488</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.w. NNNN w. w. NNNN	val	42.XII. 1489 i. e. 1488
 NN.w. NNNN w.w. NN.w.NNNN	dev	26.IX. 1488 i.e. 25.IX.1478
-NN.w. NNNN w.w. NN.w.NNNN	val	39.IX. 1501 i.e. 38.IX.1491	<TIMEX3 type='DATE' value='39.IX. 1501 i.e. 38.IX.1491'>39.IX. 1501 i.e. 38.IX.1491</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.w. NNNN w.w. NN.w.NNNN	val	39.IX. 1501 i.e. 38.IX.1491
 NN.w. NNNN/NN	dev	14.II. 1494/95
-NN.w. NNNN/NN	val	27.II. 1507/10	<TIMEX3 type='DATE' value='27.II. 1507/10'>27.II. 1507/10</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.w. NNNN/NN	val	27.II. 1507/10
 NN.w. NNNN/NNNN	dev	15.II. 1492/1493
-NN.w. NNNN/NNNN	val	24.VI. 1488/1491	<TIMEX3 type='DATE' value='24.VI. 1488/1491'>24.VI. 1488/1491</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.w. NNNN/NNNN	val	24.VI. 1488/1491
 NN.w.NNNN	dev	10.I.1491
-NN.w.NNNN	val	31.VIII.1481	<TIMEX3 type='DATE' value='31.VIII.1481'>31.VIII.1481</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN.w.NNNN	val	31.VIII.1481
 NNlNN	dev	47x59
-NNlNN	val	60x72	<TIMEX3 type='DATE' value='60x72'>60x72</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNlNN	val	60x72
 NNN-(NNNN-NNNN)	dev	174-(1702-1703)
-NNN-(NNNN-NNNN)	val	187-(1715-1716)	<TIMEX3 type='DATE' value='187-(1715-1716)'>187-(1715-1716)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN-(NNNN-NNNN)	val	187-(1715-1716)
 NNN-?	dev	177-?
-NNN-?	val	194-?	<TIMEX3 type='DATE' value='194-?'>194-?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN-?	val	194-?
 NNN-?.	dev	190-?.
-NNN-?.	val	203-?.	<TIMEX3 type='DATE' value='203-?.'>203-?.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN-?.	val	203-?.
 NNN.	dev	177.
-NNN.	val	178.	<TIMEX3 type='DATE' value='178.'>178.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN.	val	178.
 NNN?	dev	186?
-NNN?	val	190?	<TIMEX3 type='DATE' value='190?'>190?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN?	val	190?
 NNN? w NNN?	dev	176? - 177?
-NNN? w NNN?	val	189? - 190?	<TIMEX3 type='DATE' value='189? - 190?'>189? - 190?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNN? w NNN?	val	189? - 190?
 NNNN ( w. w. WW.)	dev	1795 ( I. C. Nabholz f.)
-NNNN ( w. w. WW.)	val	1808 ( I. C. Nabholz f.)	<TIMEX3 type='DATE' value='1808 ( I. C. Nabholz f.)'>1808 ( I. C. Nabholz f.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN ( w. w. WW.)	val	1808 ( I. C. Nabholz f.)
 NNNN (NNNN) NN w. NNNN–NN w. NNNN	dev	1771 (7279) 13 окт. 1769–23 сент. 1770
-NNNN (NNNN) NN w. NNNN–NN w. NNNN	val	1784 (7292) 26 окт. 1782–36 сент. 1783	<TIMEX3 type='DATE' value='1784 (7292) 26 окт. 1782–36 сент. 1783'>1784 (7292) 26 окт. 1782–36 сент. 1783</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (NNNN) NN w. NNNN–NN w. NNNN	val	1784 (7292) 26 окт. 1782–36 сент. 1783
 NNNN (w)	dev	1846 (Карлсруэ)
-NNNN (w)	val	1908 (Санкт-Петербург)	<TIMEX3 type='DATE' value='1908 (Санкт-Петербург)'>1908 (Санкт-Петербург)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (w)	val	1908 (Санкт-Петербург)
 NNNN (w. NNNN)	dev	1852 (обл. 1853)
-NNNN (w. NNNN)	val	1894 (обл. 1895)	<TIMEX3 type='DATE' value='1894 (обл. 1895)'>1894 (обл. 1895)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (w. NNNN)	val	1894 (обл. 1895)
 NNNN (w. w.w. w)	dev	1893 (тип. К.П. Козловского)
-NNNN (w. w.w. w)	val	1895 (тип. Ф.А. Брокгауза)	<TIMEX3 type='DATE' value='1895 (тип. Ф.А. Брокгауза)'>1895 (тип. Ф.А. Брокгауза)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (w. w.w. w)	val	1895 (тип. Ф.А. Брокгауза)
 NNNN (w. WW)	dev	1911 (Тип. Морского м-ва)
-NNNN (w. WW)	val	1924 (Тип. Морского м-ва)	<TIMEX3 type='DATE' value='1924 (Тип. Морского м-ва)'>1924 (Тип. Морского м-ва)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (w. WW)	val	1924 (Тип. Морского м-ва)
 NNNN (w. WW. w)	dev	1825 (lith. chez F. Davignon)
-NNNN (w. WW. w)	val	1838 (lith. chez F. Davignon)	<TIMEX3 type='DATE' value='1838 (lith. chez F. Davignon)'>1838 (lith. chez F. Davignon)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (w. WW. w)	val	1838 (lith. chez F. Davignon)
 NNNN (WW)	dev	1816 (В Французской королевской типографии)
-NNNN (WW)	val	1829 (В Французской королевской типографии)	<TIMEX3 type='DATE' value='1829 (В Французской королевской типографии)'>1829 (В Французской королевской типографии)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (WW)	val	1829 (В Французской королевской типографии)
 NNNN (WW. w № NN)	dev	1824 (Lithographie de Résélius gr. Mestchansky № 32)
-NNNN (WW. w № NN)	val	1837 (Lithographie de Résélius gr. Mestchansky № 45)	<TIMEX3 type='DATE' value='1837 (Lithographie de Résélius gr. Mestchansky № 45)'>1837 (Lithographie de Résélius gr. Mestchansky № 45)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (WW. w № NN)	val	1837 (Lithographie de Résélius gr. Mestchansky № 45)
 NNNN (WW. w)	dev	1817 (gravé par M. Brieff)
-NNNN (WW. w)	val	1830 (gravé par M. Brieff)	<TIMEX3 type='DATE' value='1830 (gravé par M. Brieff)'>1830 (gravé par M. Brieff)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN (WW. w)	val	1830 (gravé par M. Brieff)
 NNNN ?	dev	1759 ?
-NNNN ?	val	1772 ?	<TIMEX3 type='DATE' value='1772 ?'>1772 ?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN ?	val	1772 ?
 NNNN w	dev	1766 года
-NNNN w	val	1784 года	<TIMEX3 type='DATE' value='1784 года'>1784 года</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w	val	1784 года
 NNNN w N	dev	1756 ноября 1
-NNNN w N	val	1769 ноября 1	<TIMEX3 type='DATE' value='1769 ноября 1'>1769 ноября 1</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w N	val	1769 ноября 1
 NNNN w NNNN w.	dev	1156 - 1163 гг.
-NNNN w NNNN w.	val	1789 – 1790 гг.	<TIMEX3 type='DATE' value='1789 – 1790 гг.'>1789 – 1790 гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w NNNN w.	val	1789 – 1790 гг.
 NNNN w NNNN.	dev	1790 - 1797.
-NNNN w NNNN.	val	1823 - 1825.	<TIMEX3 type='DATE' value='1823 - 1825.'>1823 - 1825.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w NNNN.	val	1823 - 1825.
 NNNN w, WW	dev	1767 году, в месяце июле
-NNNN w, WW	val	1781 года, Генваря дня	<TIMEX3 type='DATE' value='1781 года, Генваря дня'>1781 года, Генваря дня</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w, WW	val	1781 года, Генваря дня
 NNNN w, WW N w	dev	1728 году, окончено печатью июля 8 дня
-NNNN w, WW N w	val	1741 году, окончено печатью июля 8 дня	<TIMEX3 type='DATE' value='1741 году, окончено печатью июля 8 дня'>1741 году, окончено печатью июля 8 дня</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w, WW N w	val	1741 году, окончено печатью июля 8 дня
 NNNN w.	dev	1401 г.
-NNNN w.	val	1835 г.	<TIMEX3 type='DATE' value='1835 г.'>1835 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w.	val	1835 г.
 NNNN w. (w. N w NNN); w. w. WW. (w. NNN w NNN).	dev	1493 г. (л. 1 - 116); втор. четв. XVII в. (л. 117 - 176).
-NNNN w. (w. N w NNN); w. w. WW. (w. NNN w NNN).	val	1506 г. (л. 1 - 129); втор. четв. XVIII в. (л. 130 - 189).	<TIMEX3 type='DATE' value='1506 г. (л. 1 - 129); втор. четв. XVIII в. (л. 130 - 189).'>1506 г. (л. 1 - 129); втор. четв. XVIII в. (л. 130 - 189).</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w. (w. N w NNN); w. w. WW. (w. NNN w NNN).	val	1506 г. (л. 1 - 129); втор. четв. XVIII в. (л. 130 - 189).
 NNNN w. (w. N-NNN, NNN-NNN) WW. WW. (w. NNN-NNN).	dev	1637 г. (л. 1-133, 147-438) и серед. XVII в. (л. 134-146).
-NNNN w. (w. N-NNN, NNN-NNN) WW. WW. (w. NNN-NNN).	val	1650 г. (л. 1-146, 160-451) и серед. XVIII в. (л. 147-159).	<TIMEX3 type='DATE' value='1650 г. (л. 1-146, 160-451) и серед. XVIII в. (л. 147-159).'>1650 г. (л. 1-146, 160-451) и серед. XVIII в. (л. 147-159).</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w. (w. N-NNN, NNN-NNN) WW. WW. (w. NNN-NNN).	val	1650 г. (л. 1-146, 160-451) и серед. XVIII в. (л. 147-159).
 NNNN w. w NNNN-WW. (w. N w N).	dev	1568 г. и 1620-е гг. (л. 2 - 3).
-NNNN w. w NNNN-WW. (w. N w N).	val	1581 г. и 1633-е гг. (л. 2 - 3).	<TIMEX3 type='DATE' value='1581 г. и 1633-е гг. (л. 2 - 3).'>1581 г. и 1633-е гг. (л. 2 - 3).</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w. w NNNN-WW. (w. N w N).	val	1581 г. и 1633-е гг. (л. 2 - 3).
 NNNN w. w. NNNN-N w. NNNN	dev	1533 i. e. 1534-1 Apr. 1534
-NNNN w. w. NNNN-N w. NNNN	val	1546 i. e. 1547-1 Apr. 1547	<TIMEX3 type='DATE' value='1546 i. e. 1547-1 Apr. 1547'>1546 i. e. 1547-1 Apr. 1547</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w. w. NNNN-N w. NNNN	val	1546 i. e. 1547-1 Apr. 1547
 NNNN w. WW NN w	dev	1718 году. Марта в 18 день
-NNNN w. WW NN w	val	1731 году. Марта в 31 день	<TIMEX3 type='DATE' value='1731 году. Марта в 31 день'>1731 году. Марта в 31 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w. WW NN w	val	1731 году. Марта в 31 день
 NNNN w.w. NNNN	dev	1747 т.е. 1749
-NNNN w.w. NNNN	val	7289 т.е. 1781	<TIMEX3 type='DATE' value='7289 т.е. 1781'>7289 т.е. 1781</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN w.w. NNNN	val	7289 т.е. 1781
 NNNN WW	dev	1710 в маии
-NNNN WW	val	1723 в маии	<TIMEX3 type='DATE' value='1723 в маии'>1723 в маии</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN WW	val	1723 в маии
 NNNN WW NNNN	dev	1748 не ранее 1784
-NNNN WW NNNN	val	1792 - не ранее 1796	<TIMEX3 type='DATE' value='1792 - не ранее 1796'>1792 - не ранее 1796</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN WW NNNN	val	1792 - не ранее 1796
 NNNN, N w	dev	1646, 8 сентября
-NNNN, N w	val	1659, 8 сентября	<TIMEX3 type='DATE' value='1659, 8 сентября'>1659, 8 сентября</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, N w	val	1659, 8 сентября
 NNNN, N w.	dev	1807, 3 янв.
-NNNN, N w.	val	1820, 3 янв.	<TIMEX3 type='DATE' value='1820, 3 янв.'>1820, 3 янв.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, N w.	val	1820, 3 янв.
 NNNN, w	dev	1764, июль
-NNNN, w	val	1777, июль	<TIMEX3 type='DATE' value='1777, июль'>1777, июль</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, w	val	1777, июль
 NNNN, w NN w	dev	1766, майя 25 дня
-NNNN, w NN w	val	1779, майя 38 дня	<TIMEX3 type='DATE' value='1779, майя 38 дня'>1779, майя 38 дня</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, w NN w	val	1779, майя 38 дня
 NNNN, w.w. NNNN	dev	1755, т.е. 1785
-NNNN, w.w. NNNN	val	1768, т.е. 1798	<TIMEX3 type='DATE' value='1768, т.е. 1798'>1768, т.е. 1798</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, w.w. NNNN	val	1768, т.е. 1798
 NNNN, WW	dev	1769, сентября дня
-NNNN, WW	val	1782, сентября дня	<TIMEX3 type='DATE' value='1782, сентября дня'>1782, сентября дня</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, WW	val	1782, сентября дня
 NNNN, WW N w	dev	1717, Апреля в 9 день
-NNNN, WW N w	val	1721, Маия в 3 день	<TIMEX3 type='DATE' value='1721, Маия в 3 день'>1721, Маия в 3 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, WW N w	val	1721, Маия в 3 день
 NNNN, WW NN w	dev	1715, Февраля в 28 день
-NNNN, WW NN w	val	1721, Иуниа в 19 день	<TIMEX3 type='DATE' value='1721, Иуниа в 19 день'>1721, Иуниа в 19 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN, WW NN w	val	1721, Иуниа в 19 день
 NNNN-.	dev	1860-.
-NNNN-.	val	1873-.	<TIMEX3 type='DATE' value='1873-.'>1873-.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-.	val	1873-.
 NNNN-?	dev	1885-?
-NNNN-?	val	1915-?	<TIMEX3 type='DATE' value='1915-?'>1915-?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-?	val	1915-?
 NNNN-NNNN	dev	1818-1829
-NNNN-NNNN	val	1831-1842	<TIMEX3 type='DATE' value='1831-1842'>1831-1842</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN	val	1831-1842
 NNNN-NNNN w.	dev	1529-1541 гг.
-NNNN-NNNN w.	val	1542-1554 гг.	<TIMEX3 type='DATE' value='1542-1554 гг.'>1542-1554 гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN w.	val	1542-1554 гг.
 NNNN-NNNN w.w. NNNN-NNNN	dev	1792-1794 т.е. 1796-1797
-NNNN-NNNN w.w. NNNN-NNNN	val	1805-1807 т.е. 1809-1810	<TIMEX3 type='DATE' value='1805-1807 т.е. 1809-1810'>1805-1807 т.е. 1809-1810</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN w.w. NNNN-NNNN	val	1805-1807 т.е. 1809-1810
 NNNN-NNNN-w	dev	1560-1570-е
-NNNN-NNNN-w	val	1573-1583-е	<TIMEX3 type='DATE' value='1573-1583-е'>1573-1583-е</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN-w	val	1573-1583-е
 NNNN-NNNN.	dev	1757-1765.
-NNNN-NNNN.	val	1823-1825.	<TIMEX3 type='DATE' value='1823-1825.'>1823-1825.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN.	val	1823-1825.
 NNNN-NNNN?	dev	1788-1793?
-NNNN-NNNN?	val	1801-1806?	<TIMEX3 type='DATE' value='1801-1806?'>1801-1806?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-NNNN?	val	1801-1806?
 NNNN-w	dev	1770-е
-NNNN-w	val	1783-е	<TIMEX3 type='DATE' value='1783-е'>1783-е</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-w	val	1783-е
 NNNN-w –NNNN-WW.	dev	1620-е –1630-е гг.
-NNNN-w –NNNN-WW.	val	1633-е –1643-е гг.	<TIMEX3 type='DATE' value='1633-е –1643-е гг.'>1633-е –1643-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-w –NNNN-WW.	val	1633-е –1643-е гг.
 NNNN-w, NNNN-WW., w. WW.	dev	1680-е, 1690-е гг., нач. XVIII в.
-NNNN-w, NNNN-WW., w. WW.	val	1693-е, 1703-е гг., нач. XIX в.	<TIMEX3 type='DATE' value='1693-е, 1703-е гг., нач. XIX в.'>1693-е, 1703-е гг., нач. XIX в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-w, NNNN-WW., w. WW.	val	1693-е, 1703-е гг., нач. XIX в.
 NNNN-WW NNNN-WW.	dev	1550-е - 1560-е гг.
-NNNN-WW NNNN-WW.	val	1710-е - 1730-е гг.	<TIMEX3 type='DATE' value='1710-е - 1730-е гг.'>1710-е - 1730-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-WW NNNN-WW.	val	1710-е - 1730-е гг.
 NNNN-WW.	dev	1490-е гг.
-NNNN-WW.	val	1820-е гг.	<TIMEX3 type='DATE' value='1820-е гг.'>1820-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-WW.	val	1820-е гг.
 NNNN-WW. (w NNNN w.)	dev	1640-е гг. (до 1648 г.)
-NNNN-WW. (w NNNN w.)	val	1653-е гг. (до 1661 г.)	<TIMEX3 type='DATE' value='1653-е гг. (до 1661 г.)'>1653-е гг. (до 1661 г.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-WW. (w NNNN w.)	val	1653-е гг. (до 1661 г.)
 NNNN-WW. NNNN w.	dev	1850-е – нач. 1860 гг.
-NNNN-WW. NNNN w.	val	1863-е – нач. 1873 гг.	<TIMEX3 type='DATE' value='1863-е – нач. 1873 гг.'>1863-е – нач. 1873 гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN-WW. NNNN w.	val	1863-е – нач. 1873 гг.
 NNNN.	dev	1776.
-NNNN.	val	1898.	<TIMEX3 type='DATE' value='1898.'>1898.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN.	val	1898.
 NNNN. w	dev	1768. года
-NNNN. w	val	1781. года	<TIMEX3 type='DATE' value='1781. года'>1781. года</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN. w	val	1781. года
 NNNN. w, w NN. w	dev	1762. года, июля 15. дня
-NNNN. w, w NN. w	val	1775. года, июля 28. дня	<TIMEX3 type='DATE' value='1775. года, июля 28. дня'>1775. года, июля 28. дня</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN. w, w NN. w	val	1775. года, июля 28. дня
 NNNN. WW NN w	dev	1714. Генваря в 16 день
-NNNN. WW NN w	val	1727. Генваря в 29 день	<TIMEX3 type='DATE' value='1727. Генваря в 29 день'>1727. Генваря в 29 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN. WW NN w	val	1727. Генваря в 29 день
 NNNN/NNNN	dev	1476/1478
-NNNN/NNNN	val	1594/1595	<TIMEX3 type='DATE' value='1594/1595'>1594/1595</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN/NNNN	val	1594/1595
 NNNN/NNNN w.	dev	1921/1922 г.
-NNNN/NNNN w.	val	1934/1935 г.	<TIMEX3 type='DATE' value='1934/1935 г.'>1934/1935 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN/NNNN w.	val	1934/1935 г.
 NNNN/NNNN-WW. NNNN	dev	1454/1455-non post Aug. 1456
-NNNN/NNNN-WW. NNNN	val	1467/1468-non post Aug. 1469	<TIMEX3 type='DATE' value='1467/1468-non post Aug. 1469'>1467/1468-non post Aug. 1469</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN/NNNN-WW. NNNN	val	1467/1468-non post Aug. 1469
 NNNN; WW N. w. NNNN	dev	1655; дополнительные статьи 2. VI. 1656
-NNNN; WW N. w. NNNN	val	1668; дополнительные статьи 2. VI. 1669	<TIMEX3 type='DATE' value='1668; дополнительные статьи 2. VI. 1669'>1668; дополнительные статьи 2. VI. 1669</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN; WW N. w. NNNN	val	1668; дополнительные статьи 2. VI. 1669
 NNNN?	dev	1704?
-NNNN?	val	1943?	<TIMEX3 type='DATE' value='1943?'>1943?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN?	val	1943?
 NNNNNNNN w.	dev	18097318 г.
-NNNNNNNN w.	val	18227331 г.	<TIMEX3 type='DATE' value='18227331 г.'>18227331 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNNNNNN w.	val	18227331 г.
 NNNN–NNNN	dev	1759–1760
-NNNN–NNNN	val	1889–1894	<TIMEX3 type='DATE' value='1889–1894'>1889–1894</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN–NNNN	val	1889–1894
 NNNN–NNNN w.	dev	1677–1679 гг.
-NNNN–NNNN w.	val	1690–1692 гг.	<TIMEX3 type='DATE' value='1690–1692 гг.'>1690–1692 гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NNNN–NNNN w.	val	1690–1692 гг.
 NN–NN.NNNN	dev	07–08.1600
-NN–NN.NNNN	val	20–21.1613	<TIMEX3 type='DATE' value='20–21.1613'>20–21.1613</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+NN–NN.NNNN	val	20–21.1613
 w N w NNNN	dev	августа 7 дня 1782
-w N w NNNN	val	маия 7 дня 1742	<TIMEX3 type='DATE' value='маия 7 дня 1742'>маия 7 дня 1742</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
-w N w, NNNN	val	декабря 1 дня, 1755	<TIMEX3 type='DATE' value='декабря 1 дня, 1755'>декабря 1 дня, 1755</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w N w NNNN	val	маия 7 дня 1742
+w N w, NNNN	val	декабря 1 дня, 1755
 w N w, NNNN	dev	Марта 9 дня, 1753
 w N.w. NNNN	dev	ante 4.XI. 1485
-w N.w. NNNN	val	ante 4.XI. 1498	<TIMEX3 type='DATE' value='ante 4.XI. 1498'>ante 4.XI. 1498</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w N.w. NNNN	val	ante 4.XI. 1498
 w NN w NNNN	dev	После 22 февраля 1711
-w NN w NNNN	val	февраля 13 дня 1766	<TIMEX3 type='DATE' value='февраля 13 дня 1766'>февраля 13 дня 1766</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN w NNNN	val	февраля 13 дня 1766
 w NN w NNNN UN.NN.NNNN w	dev	после 14 марта 1616 I4.03.7124 -
-w NN w NNNN UN.NN.NNNN w	val	после 27 марта 1629 I4.16.7137 -	<TIMEX3 type='DATE' value='после 27 марта 1629 I4.16.7137 -'>после 27 марта 1629 I4.16.7137 -</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN w NNNN UN.NN.NNNN w	val	после 27 марта 1629 I4.16.7137 -
 w NN w NNNN w	dev	апреля 25 дня 1751 года
-w NN w NNNN w	val	декабря 17 дня 1773 года	<TIMEX3 type='DATE' value='декабря 17 дня 1773 года'>декабря 17 дня 1773 года</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN w NNNN w	val	декабря 17 дня 1773 года
 w NN w NNNN w NNNN	dev	после 17 октября 1659 - 1660
-w NN w NNNN w NNNN	val	после 30 октября 1672 - 1673	<TIMEX3 type='DATE' value='после 30 октября 1672 - 1673'>после 30 октября 1672 - 1673</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN w NNNN w NNNN	val	после 30 октября 1672 - 1673
 w NN w, NNNN	dev	генваря 28 дня, 1736
-w NN w, NNNN	val	маия 16 дня, 1731	<TIMEX3 type='DATE' value='маия 16 дня, 1731'>маия 16 дня, 1731</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN w, NNNN	val	маия 16 дня, 1731
 w NN-WW. WW.	dev	Середина 60-х гг. XVIII в.
-w NN-WW. WW.	val	Середина 73-х гг. XIX в.	<TIMEX3 type='DATE' value='Середина 73-х гг. XIX в.'>Середина 73-х гг. XIX в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN-WW. WW.	val	Середина 73-х гг. XIX в.
 w NN.w.NNNN	dev	ante 30.IX.1465
-w NN.w.NNNN	val	до 25.III.1475	<TIMEX3 type='DATE' value='до 25.III.1475'>до 25.III.1475</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NN.w.NNNN	val	до 25.III.1475
 w NNNN	dev	ca 1474
-w NNNN	val	ca 1487	<TIMEX3 type='DATE' value='ca 1487 '>ca 1487 </TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN	val	ca 1487
 w NNNN	dev	MDCCCXLVII 1847
-w NNNN	val	январь 1793	<TIMEX3 type='DATE' value='январь 1793'>январь 1793</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN	val	январь 1793
 w NNNN (NNNN)	dev	июнь 1778 (7286)
-w NNNN (NNNN)	val	июнь 1791 (7299)	<TIMEX3 type='DATE' value='июнь 1791 (7299)'>июнь 1791 (7299)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN (NNNN)	val	июнь 1791 (7299)
 w NNNN NN.NN.NNNN w NN.NNNN	dev	май 1665 27.11.7172 - 05.7173
-w NNNN NN.NN.NNNN w NN.NNNN	val	май 1678 40.24.7185 - 18.7186	<TIMEX3 type='DATE' value='май 1678 40.24.7185 - 18.7186'>май 1678 40.24.7185 - 18.7186</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN NN.NN.NNNN w NN.NNNN	val	май 1678 40.24.7185 - 18.7186
 w NNNN NNNN	dev	июнь 1696 7204
-w NNNN NNNN	val	январь 1680 7188	<TIMEX3 type='DATE' value='январь 1680 7188'>январь 1680 7188</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN NNNN	val	январь 1680 7188
 w NNNN w	dev	февраль 1711 г
-w NNNN w	val	февраль 1724 г	<TIMEX3 type='DATE' value='февраль 1724 г'>февраль 1724 г</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN w	val	февраль 1724 г
 w NNNN w NNNN	dev	Между 1796 и 1800
-w NNNN w NNNN	val	между 1796 и 1801	<TIMEX3 type='DATE' value='между 1796 и 1801'>между 1796 и 1801</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN w NNNN	val	между 1796 и 1801
 w NNNN w.	dev	до 1802 г.
-w NNNN w.	val	до 1815 г.	<TIMEX3 type='DATE' value='до 1815 г.'>до 1815 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN w.	val	до 1815 г.
 w NNNN WW. NNNN	dev	март 1780 - янв. 1781
-w NNNN WW. NNNN	val	март 1793 - янв. 1794	<TIMEX3 type='DATE' value='март 1793 - янв. 1794'>март 1793 - янв. 1794</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN WW. NNNN	val	март 1793 - янв. 1794
 w NNNN-NN	dev	ca 1478-79
-w NNNN-NN	val	ca 1491-92	<TIMEX3 type='DATE' value='ca 1491-92'>ca 1491-92</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN-NN	val	ca 1491-92
 w NNNN-NNNN	dev	ca 1468-1470
-w NNNN-NNNN	val	между 1780-1785	<TIMEX3 type='DATE' value='между 1780-1785'>между 1780-1785</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN-NNNN	val	между 1780-1785
 w NNNN/NNNN	dev	ca 1475/1476
-w NNNN/NNNN	val	ca 1476/1477	<TIMEX3 type='DATE' value='ca 1476/1477'>ca 1476/1477</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w NNNN/NNNN	val	ca 1476/1477
 w, WW	dev	XIX, XIX в
-w, WW	val	XVIII, XIX в	<TIMEX3 type='DATE' value='XVIII, XIX в'>XVIII, XIX в</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w, WW	val	XVIII, XIX в
 w. (?) WW.	dev	Кон. (?) XII в.
-w. (?) WW.	val	Сер. (?) XIV в.	<TIMEX3 type='DATE' value='Сер. (?) XIV в.'>Сер. (?) XIV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. (?) WW.	val	Сер. (?) XIV в.
 w. (NNNN) (NNNN)	dev	февр. (1800) (7308)
-w. (NNNN) (NNNN)	val	февр. (1813) (7321)	<TIMEX3 type='DATE' value='февр. (1813) (7321)'>февр. (1813) (7321)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. (NNNN) (NNNN)	val	февр. (1813) (7321)
 w. (w. w. ?) WW.	dev	Нач. (перв. четв. ?) XIV в.
-w. (w. w. ?) WW.	val	Нач. (перв. четв. ?) XIV в.	<TIMEX3 type='DATE' value='Нач. (перв. четв. ?) XIV в.'>Нач. (перв. четв. ?) XIV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. (w. w. ?) WW.	val	Нач. (перв. четв. ?) XIV в.
 w. N. w. NNNN	dev	п. 6. VII. 1656
-w. N. w. NNNN	val	п. 6. VII. 1669	<TIMEX3 type='DATE' value='п. 6. VII. 1669'>п. 6. VII. 1669</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. N. w. NNNN	val	п. 6. VII. 1669
 w. NN w NNNN	dev	ок. 29 января 1627
-w. NN w NNNN	val	ок. 42 января 1640	<TIMEX3 type='DATE' value='ок. 42 января 1640'>ок. 42 января 1640</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NN w NNNN	val	ок. 42 января 1640
 w. NN-WW. NN-WW. WW.	dev	Серед. 70-х – серед. 80-х гг. XVII в.
-w. NN-WW. NN-WW. WW.	val	Серед. 83-х – серед. 93-х гг. XVIII в.	<TIMEX3 type='DATE' value='Серед. 83-х – серед. 93-х гг. XVIII в.'>Серед. 83-х – серед. 93-х гг. XVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NN-WW. NN-WW. WW.	val	Серед. 83-х – серед. 93-х гг. XVIII в.
 w. NN-WW. WW.	dev	Нач. 30-х гг. XVI в.
-w. NN-WW. WW.	val	Нач. 43-х гг. XVII в.	<TIMEX3 type='DATE' value='Нач. 43-х гг. XVII в.'>Нач. 43-х гг. XVII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NN-WW. WW.	val	Нач. 43-х гг. XVII в.
 w. NN.?	dev	ок. 18.?
-w. NN.?	val	ок. 31.?	<TIMEX3 type='DATE' value='ок. 31.?'>ок. 31.?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NN.?	val	ок. 31.?
 w. NNNN	dev	pref. 1852
-w. NNNN	val	янв. 1654	<TIMEX3 type='DATE' value='янв. 1654'>янв. 1654</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN	val	янв. 1654
 w. NNNN (NNNN)	dev	нояб. 1781 (7290)
-w. NNNN (NNNN)	val	сент. 1783 (7292)	<TIMEX3 type='DATE' value='сент. 1783 (7292)'>сент. 1783 (7292)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN (NNNN)	val	сент. 1783 (7292)
 w. NNNN (NNNN) NN w. NNNN w NN w. NNNN	dev	янв. 1771 (7279) 13 нояб. 1769 - 25 нояб. 1770
-w. NNNN (NNNN) NN w. NNNN w NN w. NNNN	val	янв. 1784 (7292) 26 нояб. 1782 - 38 нояб. 1783	<TIMEX3 type='DATE' value='янв. 1784 (7292) 26 нояб. 1782 - 38 нояб. 1783'>янв. 1784 (7292) 26 нояб. 1782 - 38 нояб. 1783</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN (NNNN) NN w. NNNN w NN w. NNNN	val	янв. 1784 (7292) 26 нояб. 1782 - 38 нояб. 1783
 w. NNNN (NNNN) NN w. NNNN-NN w. NNNN	dev	янв. 1771 (7279) 17 окт. 1769-11 окт. 1770
-w. NNNN (NNNN) NN w. NNNN-NN w. NNNN	val	янв. 1784 (7292) 30 окт. 1782-24 окт. 1783	<TIMEX3 type='DATE' value='янв. 1784 (7292) 30 окт. 1782-24 окт. 1783'>янв. 1784 (7292) 30 окт. 1782-24 окт. 1783</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN (NNNN) NN w. NNNN-NN w. NNNN	val	янв. 1784 (7292) 30 окт. 1782-24 окт. 1783
 w. NNNN NNNN w	dev	дек. 1778 7286 г
-w. NNNN NNNN w	val	дек. 1791 7299 г	<TIMEX3 type='DATE' value='дек. 1791 7299 г'>дек. 1791 7299 г</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN NNNN w	val	дек. 1791 7299 г
 w. NNNN- WW NNNN WW NNNN	dev	ок. 1655- не ранее 1652 и не позднее 1663
-w. NNNN- WW NNNN WW NNNN	val	ок. 1668- не ранее 1665 и не позднее 1676	<TIMEX3 type='DATE' value='ок. 1668- не ранее 1665 и не позднее 1676'>ок. 1668- не ранее 1665 и не позднее 1676</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN- WW NNNN WW NNNN	val	ок. 1668- не ранее 1665 и не позднее 1676
 w. NNNN-NNNN	dev	ценз. 1885-1902
-w. NNNN-NNNN	val	ценз. 1898-1915	<TIMEX3 type='DATE' value='ценз. 1898-1915'>ценз. 1898-1915</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-NNNN	val	ценз. 1898-1915
 w. NNNN-w	dev	сер. 1790-х
-w. NNNN-w	val	сер. 1803-х	<TIMEX3 type='DATE' value='сер. 1803-х'>сер. 1803-х</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-w	val	сер. 1803-х
 w. NNNN-WW NNNN-WW.	dev	Кон. 1670-х – 1680-е гг.
-w. NNNN-WW NNNN-WW.	val	Кон. 1683-х – 1693-е гг.	<TIMEX3 type='DATE' value='Кон. 1683-х – 1693-е гг.'>Кон. 1683-х – 1693-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-WW NNNN-WW.	val	Кон. 1683-х – 1693-е гг.
 w. NNNN-WW.	dev	Нач. 1680-х гг.
-w. NNNN-WW.	val	Нач. 1693-х гг.	<TIMEX3 type='DATE' value='Нач. 1693-х гг.'>Нач. 1693-х гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-WW.	val	Нач. 1693-х гг.
 w. NNNN-WW. NNNN-WW.	dev	Кон. 1560-х - нач. 1570-х гг.
-w. NNNN-WW. NNNN-WW.	val	Кон. 1573-х - нач. 1583-х гг.	<TIMEX3 type='DATE' value='Кон. 1573-х - нач. 1583-х гг.'>Кон. 1573-х - нач. 1583-х гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-WW. NNNN-WW.	val	Кон. 1573-х - нач. 1583-х гг.
 w. NNNN-WW. NNNN-WW. WW. WW. (w. N w N w.).	dev	Кон. 1560-х - нач. 1570-х гг. и перв. треть XVII в. (л. 1 - 2 об.).
-w. NNNN-WW. NNNN-WW. WW. WW. (w. N w N w.).	val	Кон. 1573-х - нач. 1583-х гг. и перв. треть XVIII в. (л. 1 - 2 об.).	<TIMEX3 type='DATE' value='Кон. 1573-х - нач. 1583-х гг. и перв. треть XVIII в. (л. 1 - 2 об.).'>Кон. 1573-х - нач. 1583-х гг. и перв. треть XVIII в. (л. 1 - 2 об.).</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-WW. NNNN-WW. WW. WW. (w. N w N w.).	val	Кон. 1573-х - нач. 1583-х гг. и перв. треть XVIII в. (л. 1 - 2 об.).
 w. NNNN-WW. WW.	dev	нач. 1690-х с приписками до кон. XVIII в.
-w. NNNN-WW. WW.	val	нач. 1703-х с приписками до кон. XIX в.	<TIMEX3 type='DATE' value='нач. 1703-х с приписками до кон. XIX в.'>нач. 1703-х с приписками до кон. XIX в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN-WW. WW.	val	нач. 1703-х с приписками до кон. XIX в.
 w. NNNN.	dev	янв. 1779.
-w. NNNN.	val	янв. 1792.	<TIMEX3 type='DATE' value='янв. 1792.'>янв. 1792.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN.	val	янв. 1792.
 w. NNNN/NNNN	dev	I. 1497/1498
-w. NNNN/NNNN	val	I. 1510/1511	<TIMEX3 type='DATE' value='I. 1510/1511'>I. 1510/1511</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN/NNNN	val	I. 1510/1511
 w. NNNN?	dev	ок. 1840?
-w. NNNN?	val	ок. 1853?	<TIMEX3 type='DATE' value='ок. 1853?'>ок. 1853?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. NNNN?	val	ок. 1853?
 w. w (?) WW. WW.	dev	Кон. XIV (?) - нач. XV в.
-w. w (?) WW. WW.	val	Кон. XIV (?) – нач. XV в.	<TIMEX3 type='DATE' value='Кон. XIV (?) – нач. XV в.'>Кон. XIV (?) – нач. XV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w (?) WW. WW.	val	Кон. XIV (?) – нач. XV в.
 w. w (w.?) WW.	dev	Перв. треть (нач.?) XIII в.
-w. w (w.?) WW.	val	Перв. треть (нач.?) XIII в.	<TIMEX3 type='DATE' value='Перв. треть (нач.?) XIII в.'>Перв. треть (нач.?) XIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w (w.?) WW.	val	Перв. треть (нач.?) XIII в.
 w. w ? WW.	dev	кон. ХV ? - XVI в.
-w. w ? WW.	val	кон. ХV ? - XVII в.	<TIMEX3 type='DATE' value='кон. ХV ? - XVII в.'>кон. ХV ? - XVII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w ? WW.	val	кон. ХV ? - XVII в.
 w. w NN-WW. WW. (WW NNNN w.)	dev	Серед. – 80-е гг. XVI в. (не позднее 1584 г.)
-w. w NN-WW. WW. (WW NNNN w.)	val	Серед. – 93-е гг. XVII в. (не позднее 1597 г.)	<TIMEX3 type='DATE' value='Серед. – 93-е гг. XVII в. (не позднее 1597 г.)'>Серед. – 93-е гг. XVII в. (не позднее 1597 г.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w NN-WW. WW. (WW NNNN w.)	val	Серед. – 93-е гг. XVII в. (не позднее 1597 г.)
 w. w.	dev	s. a.
-w. w.	val	б. г.	<TIMEX3 type='DATE' value='б. г.'>б. г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w.	val	б. г.
 w. w. (w.?) WW. w (w. N-NN) WW. WW.	dev	Перв. пол. (серед.?) XIV в. и (л. 1-12) третья четв. XVI в.
-w. w. (w.?) WW. w (w. N-NN) WW. WW.	val	Перв. пол. (серед.?) XIV в. и (л. 1-25) третья четв. XVII в.	<TIMEX3 type='DATE' value='Перв. пол. (серед.?) XIV в. и (л. 1-25) третья четв. XVII в.'>Перв. пол. (серед.?) XIV в. и (л. 1-25) третья четв. XVII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. (w.?) WW. w (w. N-NN) WW. WW.	val	Перв. пол. (серед.?) XIV в. и (л. 1-25) третья четв. XVII в.
 w. w. WW.	dev	Втор. пол. XII в.
-w. w. WW.	val	последн. четв. ХV в.	<TIMEX3 type='DATE' value='последн. четв. ХV в.'>последн. четв. ХV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. WW.	val	последн. четв. ХV в.
 w. w. WW. (w. NNN w NNN) WW. WW. WW.	dev	Втор. пол. XVI в. (л. 319 – 397) и кон. XVI – нач. XVII в.
-w. w. WW. (w. NNN w NNN) WW. WW. WW.	val	Втор. пол. XVII в. (л. 332 – 410) и кон. XVII – нач. XVIII в.	<TIMEX3 type='DATE' value='Втор. пол. XVII в. (л. 332 – 410) и кон. XVII – нач. XVIII в.'>Втор. пол. XVII в. (л. 332 – 410) и кон. XVII – нач. XVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. WW. (w. NNN w NNN) WW. WW. WW.	val	Втор. пол. XVII в. (л. 332 – 410) и кон. XVII – нач. XVIII в.
 w. w. WW. WW	dev	посл. четв. XVII в. с позднейшими записями
-w. w. WW. WW	val	посл. четв. XVIII в. с позднейшими записями	<TIMEX3 type='DATE' value='посл. четв. XVIII в. с позднейшими записями'>посл. четв. XVIII в. с позднейшими записями</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. WW. WW	val	посл. четв. XVIII в. с позднейшими записями
 w. w. WW. WW.	dev	Втор. пол. XIV в. и XIX–XIX вв.
-w. w. WW. WW.	val	Втор. пол. XIV в. и XVIII–XIX вв.	<TIMEX3 type='DATE' value='Втор. пол. XIV в. и XVIII–XIX вв.'>Втор. пол. XIV в. и XVIII–XIX вв.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. WW. WW.	val	Втор. пол. XIV в. и XVIII–XIX вв.
 w. w. WW., WW NNNN	dev	втор. четв. XVII в., не позднее 1645
-w. w. WW., WW NNNN	val	втор. четв. XVIII в., не позднее 1658	<TIMEX3 type='DATE' value='втор. четв. XVIII в., не позднее 1658'>втор. четв. XVIII в., не позднее 1658</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w. WW., WW NNNN	val	втор. четв. XVIII в., не позднее 1658
 w. w? WW. WW.	dev	кон. ХIV? – нач. XV в.
-w. w? WW. WW.	val	кон. ХIV? – нач. XV в.	<TIMEX3 type='DATE' value='кон. ХIV? – нач. XV в.'>кон. ХIV? – нач. XV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. w? WW. WW.	val	кон. ХIV? – нач. XV в.
 w. WW.	dev	Втор. треть XVI в.
-w. WW.	val	сер. ХVIII в.	<TIMEX3 type='DATE' value='сер. ХVIII в.'>сер. ХVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW.	val	сер. ХVIII в.
 w. WW. (?)	dev	Кон. XII в. (?)
-w. WW. (?)	val	Кон. XII в. (?)	<TIMEX3 type='DATE' value='Кон. XII в. (?)'>Кон. XII в. (?)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. (?)	val	Кон. XII в. (?)
 w. WW. (w NNNN w.)	dev	Нач. XVI в. (после 1504 г.)
-w. WW. (w NNNN w.)	val	Нач. XVII в. (после 1517 г.)	<TIMEX3 type='DATE' value='Нач. XVII в. (после 1517 г.)'>Нач. XVII в. (после 1517 г.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. (w NNNN w.)	val	Нач. XVII в. (после 1517 г.)
 w. WW. (w. NNN w NNN WW.).	dev	Кон. XV в. (л. 107 - 109 - XVII в.).
-w. WW. (w. NNN w NNN WW.).	val	Кон. XV в. (л. 120 - 122 - XVIII в.).	<TIMEX3 type='DATE' value='Кон. XV в. (л. 120 - 122 - XVIII в.).'>Кон. XV в. (л. 120 - 122 - XVIII в.).</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. (w. NNN w NNN WW.).	val	Кон. XV в. (л. 120 - 122 - XVIII в.).
 w. WW. NNNN	dev	Ian. aut Febr. 1471
-w. WW. NNNN	val	Ian. aut Febr. 1484	<TIMEX3 type='DATE' value='Ian. aut Febr. 1484'>Ian. aut Febr. 1484</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. NNNN	val	Ian. aut Febr. 1484
 w. WW. NNNN w NNNN w.	dev	Кон. XVI в. 1589 - 1598 гг.
-w. WW. NNNN w NNNN w.	val	Кон. XVII в. 1602 - 1611 гг.	<TIMEX3 type='DATE' value='Кон. XVII в. 1602 - 1611 гг.'>Кон. XVII в. 1602 - 1611 гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. NNNN w NNNN w.	val	Кон. XVII в. 1602 - 1611 гг.
 w. WW. w (?) w.	dev	Кон. XII – нач. XIII (?) в.
-w. WW. w (?) w.	val	Кон. XII – нач. XIII (?) в.	<TIMEX3 type='DATE' value='Кон. XII – нач. XIII (?) в.'>Кон. XII – нач. XIII (?) в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. w (?) w.	val	Кон. XII – нач. XIII (?) в.
 w. WW. w (?) w. WW. w. WW. (w. N–NN, NNN–NNN)	dev	Кон. XIII – нач. XIV (?) в. и втор. четв. XVII в. (л. 1–10, 130–132)
-w. WW. w (?) w. WW. w. WW. (w. N–NN, NNN–NNN)	val	Кон. XIII – нач. XIV (?) в. и втор. четв. XVIII в. (л. 1–23, 143–145)	<TIMEX3 type='DATE' value='Кон. XIII – нач. XIV (?) в. и втор. четв. XVIII в. (л. 1–23, 143–145)'>Кон. XIII – нач. XIV (?) в. и втор. четв. XVIII в. (л. 1–23, 143–145)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. w (?) w. WW. w. WW. (w. N–NN, NNN–NNN)	val	Кон. XIII – нач. XIV (?) в. и втор. четв. XVIII в. (л. 1–23, 143–145)
 w. WW. w. WW.	dev	Кон. XIII – перв. пол. XIV в.
-w. WW. w. WW.	val	Серед. – втор. пол. XVII в.	<TIMEX3 type='DATE' value='Серед. – втор. пол. XVII в.'>Серед. – втор. пол. XVII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. w. WW.	val	Серед. – втор. пол. XVII в.
 w. WW. WW NNNN w. (w. N-NNNl) w NNNN-WW. (w. NNN-NNN)	dev	Нач. XVI в. не позднее 1508 г. (л. 1-331а) и 1640-е гг. (л. 332-404)
-w. WW. WW NNNN w. (w. N-NNNl) w NNNN-WW. (w. NNN-NNN)	val	Нач. XVII в. не позднее 1521 г. (л. 1-344а) и 1653-е гг. (л. 345-417)	<TIMEX3 type='DATE' value='Нач. XVII в. не позднее 1521 г. (л. 1-344а) и 1653-е гг. (л. 345-417)'>Нач. XVII в. не позднее 1521 г. (л. 1-344а) и 1653-е гг. (л. 345-417)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. WW NNNN w. (w. N-NNNl) w NNNN-WW. (w. NNN-NNN)	val	Нач. XVII в. не позднее 1521 г. (л. 1-344а) и 1653-е гг. (л. 345-417)
 w. WW. WW.	dev	Кон. XII - нач. XIII в.
-w. WW. WW.	val	кон. XVII - нач. XVIII вв.	<TIMEX3 type='DATE' value='кон. XVII - нач. XVIII вв.'>кон. XVII - нач. XVIII вв.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. WW.	val	кон. XVII - нач. XVIII вв.
 w. WW. WW. (?)	dev	Кон. XIV - нач. XV в. (?)
-w. WW. WW. (?)	val	Кон. XIX - нач. XX в. (?)	<TIMEX3 type='DATE' value='Кон. XIX - нач. XX в. (?)'>Кон. XIX - нач. XX в. (?)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. WW. (?)	val	Кон. XIX - нач. XX в. (?)
 w. WW. WW. WW.	dev	Кон. XIV в. – нач. XV в.
-w. WW. WW. WW.	val	нач. XIII в. или кон. XII в.	<TIMEX3 type='DATE' value='нач. XIII в. или кон. XII в.'>нач. XIII в. или кон. XII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w. WW. WW. WW.	val	нач. XIII в. или кон. XII в.
 w./w. NNNN	dev	сент./дек. 1580
-w./w. NNNN	val	сент./дек. 1593	<TIMEX3 type='DATE' value='сент./дек. 1593'>сент./дек. 1593</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w./w. NNNN	val	сент./дек. 1593
 w.NNNN	dev	II.1505
-w.NNNN	val	II.1518	<TIMEX3 type='DATE' value='II.1518'>II.1518</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w.NNNN	val	II.1518
 w.w	dev	б.г
-w.w	val	б.г	<TIMEX3 type='DATE' value='б.г'>б.г</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w.w	val	б.г
 w.w.	dev	Б.г.
-w.w.	val	б.г.	<TIMEX3 type='DATE' value='б.г.'>б.г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w.w.	val	б.г.
 w.w., w. WW. WW.	dev	Б.г., кон. XVII - нач. XVIII в.
-w.w., w. WW. WW.	val	Б.г., кон. XVIII - нач. XIX в.	<TIMEX3 type='DATE' value='Б.г., кон. XVIII - нач. XIX в.'>Б.г., кон. XVIII - нач. XIX в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w.w., w. WW. WW.	val	Б.г., кон. XVIII - нач. XIX в.
 w.w.NNNN	dev	V.XII.1515
-w.w.NNNN	val	V.XII.1528	<TIMEX3 type='DATE' value='V.XII.1528'>V.XII.1528</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w.w.NNNN	val	V.XII.1528
 w/w. NNNN	dev	июль/авг. 1600
-w/w. NNNN	val	июль/авг. 1613	<TIMEX3 type='DATE' value='июль/авг. 1613'>июль/авг. 1613</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w/w. NNNN	val	июль/авг. 1613
 w/WW.	dev	XII/XIII в.
-w/WW.	val	XIII/XIV в.	<TIMEX3 type='DATE' value='XIII/XIV в.'>XIII/XIV в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w/WW.	val	XIII/XIV в.
 w/WW. (w. N-NN) WW. (w. NN-NNN)	dev	XII/XIII в. (л. 1-53) и XIII в. (л. 54-119)
-w/WW. (w. N-NN) WW. (w. NN-NNN)	val	XII/XIII в. (л. 1-66) и XIII в. (л. 67-132)	<TIMEX3 type='DATE' value='XII/XIII в. (л. 1-66) и XIII в. (л. 67-132)'>XII/XIII в. (л. 1-66) и XIII в. (л. 67-132)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w/WW. (w. N-NN) WW. (w. NN-NNN)	val	XII/XIII в. (л. 1-66) и XIII в. (л. 67-132)
 w/WW. (w. NNN–NNN, NNN–NNN)	dev	XI/XII и XV в. (л. 136–137, 148–152)
-w/WW. (w. NNN–NNN, NNN–NNN)	val	XI/XII и XV в. (л. 149–150, 161–165)	<TIMEX3 type='DATE' value='XI/XII и XV в. (л. 149–150, 161–165)'>XI/XII и XV в. (л. 149–150, 161–165)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w/WW. (w. NNN–NNN, NNN–NNN)	val	XI/XII и XV в. (л. 149–150, 161–165)
 w/WW. (w. NN–NNN), w/WW. (w. NNN–NNN), WW. (w. N–NN)	dev	XII/XIII в. (л. 20–116), XIII/XIV в. (л. 117–226), XV в. (л. 1–19)
-w/WW. (w. NN–NNN), w/WW. (w. NNN–NNN), WW. (w. N–NN)	val	XII/XIII в. (л. 33–129), XIII/XIV в. (л. 130–239), XV в. (л. 1–32)	<TIMEX3 type='DATE' value='XII/XIII в. (л. 33–129), XIII/XIV в. (л. 130–239), XV в. (л. 1–32)'>XII/XIII в. (л. 33–129), XIII/XIV в. (л. 130–239), XV в. (л. 1–32)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+w/WW. (w. NN–NNN), w/WW. (w. NNN–NNN), WW. (w. N–NN)	val	XII/XIII в. (л. 33–129), XIII/XIV в. (л. 130–239), XV в. (л. 1–32)
 WW	dev	XI в
-WW	val	третья четверть XVI в	<TIMEX3 type='DATE' value='третья четверть XVI в'>третья четверть XVI в</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW	val	третья четверть XVI в
 WW ? w.	dev	конец XIV - начало XV ? в.
-WW ? w.	val	конец XIV - начало XV ? в.	<TIMEX3 type='DATE' value='конец XIV - начало XV ? в.'>конец XIV - начало XV ? в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW ? w.	val	конец XIV - начало XV ? в.
 WW NN w NNNN	dev	не позднее 22 апреля 1598
-WW NN w NNNN	val	не позднее 35 апреля 1611	<TIMEX3 type='DATE' value='не позднее 35 апреля 1611'>не позднее 35 апреля 1611</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NN w NNNN	val	не позднее 35 апреля 1611
 WW NN.w. NNNN	dev	non ante 15.VIII. 1473
-WW NN.w. NNNN	val	non ante 28.VIII. 1486	<TIMEX3 type='DATE' value='non ante 28.VIII. 1486'>non ante 28.VIII. 1486</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NN.w. NNNN	val	non ante 28.VIII. 1486
 WW NNNN	dev	non post 1466
-WW NNNN	val	не ранее 1821	<TIMEX3 type='DATE' value='не ранее 1821'>не ранее 1821</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN	val	не ранее 1821
 WW NNNN w.	dev	не ранее 1776 г.
-WW NNNN w.	val	не ранее 1799 г.	<TIMEX3 type='DATE' value='не ранее 1799 г.'>не ранее 1799 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN w.	val	не ранее 1799 г.
 WW NNNN WW	dev	Лета Господня 1708 месяца маия
-WW NNNN WW	val	Лета Господня 1721 месяца маия	<TIMEX3 type='DATE' value='Лета Господня 1721 месяца маия'>Лета Господня 1721 месяца маия</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN WW	val	Лета Господня 1721 месяца маия
 WW NNNN, WW NNNN.	dev	в лето от сотворения мира 7320, от рождества же по плоти бога слова 1812.
-WW NNNN, WW NNNN.	val	в лето от сотворения мира 7333, от рождества же по плоти бога слова 1825.	<TIMEX3 type='DATE' value='в лето от сотворения мира 7333, от рождества же по плоти бога слова 1825.'>в лето от сотворения мира 7333, от рождества же по плоти бога слова 1825.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN, WW NNNN.	val	в лето от сотворения мира 7333, от рождества же по плоти бога слова 1825.
 WW NNNN. WW N w	dev	Лета Господня 1714. Иулия в 1 день
-WW NNNN. WW N w	val	Лета Господня 1727. Иулия в 1 день	<TIMEX3 type='DATE' value='Лета Господня 1727. Иулия в 1 день'>Лета Господня 1727. Иулия в 1 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN. WW N w	val	Лета Господня 1727. Иулия в 1 день
 WW NNNN. WW NN w	dev	Лета Господня 1714. Декабря в 22 день
-WW NNNN. WW NN w	val	Лета Господня 1727. Декабря в 35 день	<TIMEX3 type='DATE' value='Лета Господня 1727. Декабря в 35 день'>Лета Господня 1727. Декабря в 35 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
-WW, NNNN	val	в лето от Рождества Христова, 1721	<TIMEX3 type='DATE' value='в лето от Рождества Христова, 1721'>в лето от Рождества Христова, 1721</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW NNNN. WW NN w	val	Лета Господня 1727. Декабря в 35 день
+WW, NNNN	val	в лето от Рождества Христова, 1721
 WW, NNNN	dev	Сентября дня, 1763
 WW, NNNN. WW NN w	dev	Лета Господня, 1714. Апреля в 28 день
-WW, NNNN. WW NN w	val	Лета Господня, 1727. Апреля в 41 день	<TIMEX3 type='DATE' value='Лета Господня, 1727. Апреля в 41 день'>Лета Господня, 1727. Апреля в 41 день</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW, NNNN. WW NN w	val	Лета Господня, 1727. Апреля в 41 день
 WW.	dev	XI в.
-WW.	val	середина XVI в.	<TIMEX3 type='DATE' value='середина XVI в.'>середина XVI в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW.	val	середина XVI в.
 WW. (w. N w NNN, NNN w NNN) WW/WW. (w. NNN w NNN)	dev	XII – XIII вв. (л. 1 – 234, 242 – 317) и XV/XVI в. (л. 235 – 241)
-WW. (w. N w NNN, NNN w NNN) WW/WW. (w. NNN w NNN)	val	XII – XIII вв. (л. 1 – 247, 255 – 330) и XV/XVII в. (л. 248 – 254)	<TIMEX3 type='DATE' value='XII – XIII вв. (л. 1 – 247, 255 – 330) и XV/XVII в. (л. 248 – 254)'>XII – XIII вв. (л. 1 – 247, 255 – 330) и XV/XVII в. (л. 248 – 254)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. (w. N w NNN, NNN w NNN) WW/WW. (w. NNN w NNN)	val	XII – XIII вв. (л. 1 – 247, 255 – 330) и XV/XVII в. (л. 248 – 254)
 WW. (w. N WW.)	dev	XVII в. (л. 1 - XVIII в.)
-WW. (w. N WW.)	val	XVIII в. (л. 1 - XIX в.)	<TIMEX3 type='DATE' value='XVIII в. (л. 1 - XIX в.)'>XVIII в. (л. 1 - XIX в.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. (w. N WW.)	val	XVIII в. (л. 1 - XIX в.)
 WW. (w. NN w NNN w.) WW. (w. N w N w.)	dev	XII в. (л. 10 – 188 об.) и XV в. (л. 2 – 9 об.)
-WW. (w. NN w NNN w.) WW. (w. N w N w.)	val	XII в. (л. 23 – 201 об.) и XV в. (л. 2 – 9 об.)	<TIMEX3 type='DATE' value='XII в. (л. 23 – 201 об.) и XV в. (л. 2 – 9 об.)'>XII в. (л. 23 – 201 об.) и XV в. (л. 2 – 9 об.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. (w. NN w NNN w.) WW. (w. N w N w.)	val	XII в. (л. 23 – 201 об.) и XV в. (л. 2 – 9 об.)
 WW. (w. NNN-NNN), WW.	dev	XVII в. (л. 209-224), XVIII в.
-WW. (w. NNN-NNN), WW.	val	XVIII в. (л. 222-237), XIX в.	<TIMEX3 type='DATE' value='XVIII в. (л. 222-237), XIX в.'>XVIII в. (л. 222-237), XIX в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. (w. NNN-NNN), WW.	val	XVIII в. (л. 222-237), XIX в.
 WW. (WW NNNN w.)	dev	Конец XVIII в. (не ранее 1786 г.)
-WW. (WW NNNN w.)	val	Первая треть XVIII в. (не ранее 1725 г.)	<TIMEX3 type='DATE' value='Первая треть XVIII в. (не ранее 1725 г.)'>Первая треть XVIII в. (не ранее 1725 г.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. (WW NNNN w.)	val	Первая треть XVIII в. (не ранее 1725 г.)
 WW. NNNN	dev	post Apr. 1472
-WW. NNNN	val	последняя треть XVII в. 1675	<TIMEX3 type='DATE' value='последняя треть XVII в. 1675'>последняя треть XVII в. 1675</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. NNNN	val	последняя треть XVII в. 1675
 WW. NNNN ?	dev	Cередина XIX в. 1841 ?
-WW. NNNN ?	val	Последняя четверть XIX в. 1879 ?	<TIMEX3 type='DATE' value='Последняя четверть XIX в. 1879 ?'>Последняя четверть XIX в. 1879 ?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. NNNN ?	val	Последняя четверть XIX в. 1879 ?
 WW. NNNN w. ?	dev	XIX в. 1862 г. ?
-WW. NNNN w. ?	val	Первая четверть XVIII в. 1708 г. ?	<TIMEX3 type='DATE' value='Первая четверть XVIII в. 1708 г. ?'>Первая четверть XVIII в. 1708 г. ?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. NNNN w. ?	val	Первая четверть XVIII в. 1708 г. ?
 WW. NNNN-NNNN ?	dev	Первая половина XVII в. 1608-1609 ?
-WW. NNNN-NNNN ?	val	третья четверть XVII в. 1668-1670 ?	<TIMEX3 type='DATE' value='третья четверть XVII в. 1668-1670 ?'>третья четверть XVII в. 1668-1670 ?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. NNNN-NNNN ?	val	третья четверть XVII в. 1668-1670 ?
 WW. w (?) w.	dev	XII - нач. XIII (?) в.
-WW. w (?) w.	val	XII - нач. XIII (?) в.	<TIMEX3 type='DATE' value='XII - нач. XIII (?) в.'>XII - нач. XIII (?) в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. w (?) w.	val	XII - нач. XIII (?) в.
 WW. w NN-WW NN-WW. WW.	dev	XV в. и 30-е – 40-е гг. XVII в.
-WW. w NN-WW NN-WW. WW.	val	XV в. и 43-е – 53-е гг. XVIII в.	<TIMEX3 type='DATE' value='XV в. и 43-е – 53-е гг. XVIII в.'>XV в. и 43-е – 53-е гг. XVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. w NN-WW NN-WW. WW.	val	XV в. и 43-е – 53-е гг. XVIII в.
 WW. WW	dev	XVII в. с более поздними приписками
-WW. WW	val	конец XVI в. - начало XVII в	<TIMEX3 type='DATE' value='конец XVI в. - начало XVII в'>конец XVI в. - начало XVII в</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW	val	конец XVI в. - начало XVII в
 WW. WW ?	dev	XVII в. вторая четверть ?
-WW. WW ?	val	XVIII в. вторая четверть ?	<TIMEX3 type='DATE' value='XVIII в. вторая четверть ?'>XVIII в. вторая четверть ?</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW ?	val	XVIII в. вторая четверть ?
 WW. WW NNNN	dev	Вторая половина XIX в. не ранее 1857
-WW. WW NNNN	val	Вторая половина XIX в. не ранее 1870	<TIMEX3 type='DATE' value='Вторая половина XIX в. не ранее 1870'>Вторая половина XIX в. не ранее 1870</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW NNNN	val	Вторая половина XIX в. не ранее 1870
 WW. WW NNNN w.	dev	Конец XIX в. не ранее 1880 г.
-WW. WW NNNN w.	val	Конец XIX в. не ранее 1893 г.	<TIMEX3 type='DATE' value='Конец XIX в. не ранее 1893 г.'>Конец XIX в. не ранее 1893 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW NNNN w.	val	Конец XIX в. не ранее 1893 г.
 WW. WW.	dev	Третья четв. XIV в.
-WW. WW.	val	третья четв. XVIII в.	<TIMEX3 type='DATE' value='третья четв. XVIII в.'>третья четв. XVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW.	val	третья четв. XVIII в.
 WW. WW. ? WW.	dev	первая четверть ХVIII в. конец ХVII - начало ХVIII в. ? и первая половина ХVIII в.
-WW. WW. ? WW.	val	первая четверть ХVIII в. конец ХVII - начало ХVIII в. ? и первая половина ХVIII в.	<TIMEX3 type='DATE' value='первая четверть ХVIII в. конец ХVII - начало ХVIII в. ? и первая половина ХVIII в.'>первая четверть ХVIII в. конец ХVII - начало ХVIII в. ? и первая половина ХVIII в.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW. ? WW.	val	первая четверть ХVIII в. конец ХVII - начало ХVIII в. ? и первая половина ХVIII в.
 WW. WW. w	dev	Т-во Р. Голике и А. Вильборг
-WW. WW. w	val	Т-во Р. Голике и А. Вильборг	<TIMEX3 type='DATE' value='Т-во Р. Голике и А. Вильборг'>Т-во Р. Голике и А. Вильборг</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW. WW. w	val	Т-во Р. Голике и А. Вильборг
 WW., NN-WW NN-WW.	dev	XVII в., 70-е – 80-е гг.
-WW., NN-WW NN-WW.	val	XVIII в., 83-е – 93-е гг.	<TIMEX3 type='DATE' value='XVIII в., 83-е – 93-е гг.'>XVIII в., 83-е – 93-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., NN-WW NN-WW.	val	XVIII в., 83-е – 93-е гг.
 WW., NN-WW.	dev	XVII в., 40-е гг.
-WW., NN-WW.	val	XVII в., 90-е гг.	<TIMEX3 type='DATE' value='XVII в., 90-е гг.'>XVII в., 90-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., NN-WW.	val	XVII в., 90-е гг.
 WW., NN-WW.; WW., w. w.; WW., w.	dev	XVII в., 30-е гг.; XVIII в., втор. четв.; XIX в., нач.
-WW., NN-WW.; WW., w. w.; WW., w.	val	XVIII в., 43-е гг.; XIX в., втор. четв.; XIX в., нач.	<TIMEX3 type='DATE' value='XVIII в., 43-е гг.; XIX в., втор. четв.; XIX в., нач.'>XVIII в., 43-е гг.; XIX в., втор. четв.; XIX в., нач.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., NN-WW.; WW., w. w.; WW., w.	val	XVIII в., 43-е гг.; XIX в., втор. четв.; XIX в., нач.
 WW., NN–NN-WW. WW., w., w. w.; WW., w. (w NNNN w.)	dev	XVII в., 80–90-е гг. – XVIII в., нач., перв. пол.; XVIII в., кон. (после 1774 г.)
-WW., NN–NN-WW. WW., w., w. w.; WW., w. (w NNNN w.)	val	XVIII в., 93–10-е гг. – XIX в., нач., перв. пол.; XIX в., кон. (после 1787 г.)	<TIMEX3 type='DATE' value='XVIII в., 93–10-е гг. – XIX в., нач., перв. пол.; XIX в., кон. (после 1787 г.)'>XVIII в., 93–10-е гг. – XIX в., нач., перв. пол.; XIX в., кон. (после 1787 г.)</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., NN–NN-WW. WW., w., w. w.; WW., w. (w NNNN w.)	val	XVIII в., 93–10-е гг. – XIX в., нач., перв. пол.; XIX в., кон. (после 1787 г.)
 WW., w	dev	XVIII–XIX вв., рубеж
-WW., w	val	XVII–XVIII вв., рубеж	<TIMEX3 type='DATE' value='XVII–XVIII вв., рубеж'>XVII–XVIII вв., рубеж</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w	val	XVII–XVIII вв., рубеж
 WW., w + WW., w. w.	dev	XVII–XVIII вв., рубеж + XVIII в., перв. четв.
-WW., w + WW., w. w.	val	XVI–XVII вв., рубеж + XVII в., перв. четв.	<TIMEX3 type='DATE' value='XVI–XVII вв., рубеж + XVII в., перв. четв.'>XVI–XVII вв., рубеж + XVII в., перв. четв.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w + WW., w. w.	val	XVI–XVII вв., рубеж + XVII в., перв. четв.
 WW., w.	dev	XVII в., кон.
-WW., w.	val	XVII в., сер.	<TIMEX3 type='DATE' value='XVII в., сер.'>XVII в., сер.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w.	val	XVII в., сер.
 WW., w. NN-WW NN-WW.	dev	XVII в., кон. 80-х – 90-е гг.
-WW., w. NN-WW NN-WW.	val	XVIII в., кон. 93-х – 10-е гг.	<TIMEX3 type='DATE' value='XVIII в., кон. 93-х – 10-е гг.'>XVIII в., кон. 93-х – 10-е гг.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w. NN-WW NN-WW.	val	XVIII в., кон. 93-х – 10-е гг.
 WW., w. w	dev	XVI в., перв. треть
-WW., w. w	val	XVII в., перв. треть	<TIMEX3 type='DATE' value='XVII в., перв. треть'>XVII в., перв. треть</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w. w	val	XVII в., перв. треть
 WW., w. w.	dev	XVI в., втор. четв.
-WW., w. w.	val	XVII в., втор. четв.	<TIMEX3 type='DATE' value='XVII в., втор. четв.'>XVII в., втор. четв.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w. w.	val	XVII в., втор. четв.
 WW., w. w; WW., w.	dev	XVI в., втор. треть; XVII в., сер.
-WW., w. w; WW., w.	val	XVII в., втор. треть; XVIII в., сер.	<TIMEX3 type='DATE' value='XVII в., втор. треть; XVIII в., сер.'>XVII в., втор. треть; XVIII в., сер.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., w. w; WW., w.	val	XVII в., втор. треть; XVIII в., сер.
 WW., WW NNNN w.	dev	Последняя четверть XIX в., не ранее 1792 г.
-WW., WW NNNN w.	val	Последняя четверть XVIII в., не ранее 1779 г.	<TIMEX3 type='DATE' value='Последняя четверть XVIII в., не ранее 1779 г.'>Последняя четверть XVIII в., не ранее 1779 г.</TIMEX3><TIMEX3 type='DURATION' value='P1Y' />
+WW., WW NNNN w.	val	Последняя четверть XVIII в., не ранее 1779 г.
